@@ -3,4 +3,4 @@ just shut up
 Git is a distributed version control system.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
-lalalal
+Creating a new branch is quick AND simple.
